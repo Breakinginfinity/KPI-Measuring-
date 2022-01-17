@@ -17,4 +17,11 @@ Datalink: https://docs.google.com/spreadsheets/d/1DsSaIeL1SHWjO5UGjDHHYyNUKshK-c
   ◦ Creating calculated fields for percentage change in sales, profit, quantity.
   
   
+  # KPI
+ 
+• KPI stands for key performance indicator, a quantifiable measure of performance over time for a specific objective. KPIs provide targets for teams to shoot for, milestones to gauge progress, and insights that help people across the organization make better decisions.
+ 
+ • KPIs are the key targets you should track to make the most impact on your strategic business outcomes. KPIs support your strategy and help your teams focus on what’s important. An example of a key performance indicator is, “targeted new customers per month”.
+  
+  
   
