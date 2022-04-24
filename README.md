@@ -14,7 +14,7 @@ Excel Datalink: https://docs.google.com/spreadsheets/d/1DsSaIeL1SHWjO5UGjDHHYyNU
 
 ◦ Creating calculated fields of Current years sales, profit, quantity.
 
-  ◦ Creating calculated fields for percentage change in sales, profit, quantity.
+◦ Creating calculated fields for percentage change in sales, profit, quantity.
   
   
   # KPI
